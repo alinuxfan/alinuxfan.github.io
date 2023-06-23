@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Adam Jennings</h1>
+<h1 align="center">Hi 👋, I'm Adam</h1>
 <h3 align="center">Data Analytics and Machine Learning Sales Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinuxfan&label=Profile%20views&color=0e75b6&style=flat" alt="alinuxfan" /> </p>
