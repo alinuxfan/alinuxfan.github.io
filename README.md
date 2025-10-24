@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alinuxfan&label=Profile%20views&color=0e75b6&style=flat" alt="alinuxfan" /> </p>
 
-- 🔭 I’m currently working on **Modern Data Stacks**
+- 🔭 I’m currently working on **Modern Data Stacks, FoundryVTT-Draw Steel, LLMs, Agents, and GenAI**
 
 - 🌱 I’m currently learning **PyTorch, GoLang**
 
-- 👯 I’m looking to collaborate on **Modern Data Stacks**
+- 👯 I’m looking to collaborate on **LLM, Agents, MCP, A2A, and GenAI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
